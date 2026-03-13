@@ -1,0 +1,461 @@
+[
+  {
+    "function": "FUN_0056aed6",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_00576179",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_0065355a",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_006b912c",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_00726361",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_00736500",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "s_",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0",
+      "DungeonSiege2-2.1",
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_0080d880",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "lpTopLevelExceptionFilter_008398b6",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2-2.0"
+    ]
+  },
+  {
+    "function": "FUN_0056b782",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_00586515",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_00586a65",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_0065346a",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_00653562",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_006b903c",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_00765000",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1",
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "Catch_0076585a",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "Catch_00765ac8",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_00964f20",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.1"
+    ]
+  },
+  {
+    "function": "FUN_0056b488",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_006455aa",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_0065007b",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_0065780d",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_006b93e4",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_00806500",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_00915a6d",
+    "address": "?",
+    "hits": [
+      "dll:winsock",
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_00916672",
+    "address": "?",
+    "hits": [
+      "dll:winsock",
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-2.2"
+    ]
+  },
+  {
+    "function": "FUN_007d630c",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-bw2.3",
+      "DungeonSiege2-KILLAH"
+    ]
+  },
+  {
+    "function": "FUN_00965003",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2-bw2.3",
+      "DungeonSiege2-KILLAH"
+    ]
+  },
+  {
+    "function": "FUN_009ea529",
+    "address": "?",
+    "hits": [
+      "port:6515"
+    ],
+    "versions": [
+      "DungeonSiege2-bw2.3",
+      "DungeonSiege2-KILLAH"
+    ]
+  },
+  {
+    "function": "FUN_00417952",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_00418468",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004186e0",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004cb9f1",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004cfb7a",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004d01e3",
+    "address": "?",
+    "hits": [
+      "string:gamespy_domain"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004d6bad",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004d6d3f",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_004e5a9b",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_0057b82b",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core",
+      "dll:winsock"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_005aa076",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_0062b1b2",
+    "address": "?",
+    "hits": [
+      "gamespy:gamespy_core"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_0089991f",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_0089d213",
+    "address": "?",
+    "hits": [
+      "port:6500"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  },
+  {
+    "function": "FUN_008fa933",
+    "address": "?",
+    "hits": [
+      "port:3783"
+    ],
+    "versions": [
+      "DungeonSiege2.exe"
+    ]
+  }
+]
