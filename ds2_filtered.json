@@ -1,0 +1,516 @@
+[
+  {
+    "name": "FUN_0041794c",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 606,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00418462",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 1779,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004186da",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 717,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0042306c",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 43473,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0044a49d",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 4467,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00471dd8",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 1247,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004c7a64",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 2520,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004cfcae",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 1130,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004d1e20",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 3279,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004d6ce1",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 2079,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004d6e73",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 3550,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_004e5bcf",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 1910,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0056b488",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 4854,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_006455aa",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 4885,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0065007b",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 235,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0065780d",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 4854,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_006b93e4",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 10854,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00765000",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 163,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00806500",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 149,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0087679a",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 623,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00908155",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "threading",
+      "network"
+    ],
+    "size_a": 444,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0090cf13",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket"
+    ],
+    "size_a": 1174,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": [
+      "closesocket(s_00ce5850);",
+      "closesocket(s_00ce5850);"
+    ]
+  },
+  {
+    "name": "FUN_0090d0e7",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket"
+    ],
+    "size_a": 167,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": [
+      "closesocket(s_00ce5850);"
+    ]
+  },
+  {
+    "name": "FUN_00915a6d",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket",
+      "network"
+    ],
+    "size_a": 343,
+    "size_b": 0,
+    "matched_cats": [
+      "socket",
+      "network"
+    ],
+    "body_a_hits": [
+      "closesocket(s_00cc5d40);"
+    ]
+  },
+  {
+    "name": "FUN_00916672",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "socket",
+      "network"
+    ],
+    "size_a": 1290,
+    "size_b": 0,
+    "matched_cats": [
+      "socket",
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_00916a44",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket"
+    ],
+    "size_a": 2390,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": [
+      "closesocket(s_00cc5d40);"
+    ]
+  },
+  {
+    "name": "FUN_0091fa98",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "socket"
+    ],
+    "size_a": 153,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0091fac4",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket"
+    ],
+    "size_a": 61,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": [
+      "WSACleanup();"
+    ]
+  },
+  {
+    "name": "FUN_0091fe87",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "socket"
+    ],
+    "size_a": 481,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0091ff4b",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "socket"
+    ],
+    "size_a": 333,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_009200d0",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 1516,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "FUN_0094e1a6",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "cleanup",
+      "socket"
+    ],
+    "size_a": 320,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": [
+      "closesocket(s_00cc63a4);"
+    ]
+  },
+  {
+    "name": "FUN_00b65f8c",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 143,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "WSAStartup",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "socket"
+    ],
+    "size_a": 311,
+    "size_b": 0,
+    "matched_cats": [
+      "socket"
+    ],
+    "body_a_hits": []
+  },
+  {
+    "name": "s_",
+    "status": "removed",
+    "similarity": 0.0,
+    "categories": [
+      "network"
+    ],
+    "size_a": 41833,
+    "size_b": 0,
+    "matched_cats": [
+      "network"
+    ],
+    "body_a_hits": []
+  }
+]
